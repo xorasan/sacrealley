@@ -1,3 +1,3 @@
 # sacrealley
 
-this is a zim notebook.
+this is a zim notebook. do not edit directly.

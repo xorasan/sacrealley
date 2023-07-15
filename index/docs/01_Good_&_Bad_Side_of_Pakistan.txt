@@ -5,7 +5,13 @@ Creation-Date: 2023-07-05T14:34:40+05:00
 ====== 01 Good & Bad Side of Pakistan ======
 Created Wednesday 05 July 2023
 
-month long project, release it 05 Aug 2023
+Month long project
+09 Jul Outline
+16 Jul Script + Storyboard
+23 Jul Audio + VO ..
+30 Jul Video + Visuals
+05 Aug 2023 Publish + Release
+
 
 why isn't pakistan on the map? why don't people know about it?
 most people don't know even the basics of pakistan.
@@ -24,7 +30,6 @@ reserve force			550,000
 National Guard			185,000
 civilian personnel		 16,500
 manned aircraft			   ~560+
-
 
 
 pakistan's military is ranked amongst one of the top militaries of the world.
@@ -91,12 +96,13 @@ what dangers face a child in the streets?
 the case of Zainab!
 [[+Was suspect Imran Ali known to his neighbours]]
 [[+wikipedia|+wikipedia Murder of Zainab Ansari]]
+[[+Justice for Zainab Timeline of the Kasur rape, murder case that gripped the nation|+Justice for Zainab: Timeline of the Kasur rape, murder case that gripped the nation]] 
 
 Indian media's response was one of admiration instead of the usual vitriol.
 
 there are so many souls whose suffering here never made the news.
-there were no protests. protests all muffled.
-so many cries for help unanswered.
+there were no protests. cries all muffled.
+so many cries for help unanswered. so many throats run hoarse.
 
 
 one of the worst things you can give someone trapped in such
@@ -105,22 +111,15 @@ promising an escape to the garden.
 
 include the reddit post by that doctor with malnourished baby!
 
-[[+Justice for Zainab Timeline of the Kasur rape, murder case that gripped the nation|Justice for Zainab: Timeline of the Kasur rape, murder case that gripped the nation]] 
 
 [[+1978 – 2007] 8 most high-profile and publicized rape cases of Pakistan]]
-
-[[+Rape in Pakistan|Rape in Pakistan]]
-
+[[+Rape in Pakistan]]
 [[+Farooq Bandial PTI joined]]
 
 https://www.reddit.com/r/pakistan/comments/14sjb7v/f9_park_incident_girls_should_be_allowed_to_carry/
-
 https://www.reddit.com/r/pakistan/comments/14slui1/is_pakistan_even_safe_for_us_teenage_girls_or_any/
-
 https://www.dawn.com/news/1735458
-
 https://www.bbc.com/news/world-asia-54186609
-
 https://www.bbc.com/news/world-asia-42637027
 
 OUTRO TO ORPHANS
@@ -156,7 +155,7 @@ world recently.
 
 
 particles from partially burned up fuel gets collected into the air during the hot day.
-as the evening sets in, and the suns starts to go down, so does the smoke.
+as the evening sets in, and the sun starts to go down, so does the smoke.
 it engulfs the cities and suburbs, any population around a highway,
 gets to inhale the remnants of the public commute.
 
